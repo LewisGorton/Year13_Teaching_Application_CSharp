@@ -1,0 +1,41 @@
+F:\testForm\testForm\bin\Debug\testForm.exe.config
+F:\testForm\testForm\bin\Debug\testForm.exe
+F:\testForm\testForm\bin\Debug\testForm.pdb
+F:\testForm\testForm\obj\Debug\testForm.csprojAssemblyReference.cache
+F:\testForm\testForm\obj\Debug\testForm.Form1.resources
+F:\testForm\testForm\obj\Debug\testForm.Properties.Resources.resources
+F:\testForm\testForm\obj\Debug\testForm.csproj.GenerateResource.cache
+F:\testForm\testForm\obj\Debug\testForm.csproj.CoreCompileInputs.cache
+F:\testForm\testForm\obj\Debug\testForm.exe
+F:\testForm\testForm\obj\Debug\testForm.pdb
+F:\NEA\Implementation\testForm\bin\Debug\testForm.exe.config
+F:\NEA\Implementation\testForm\bin\Debug\testForm.exe
+F:\NEA\Implementation\testForm\bin\Debug\testForm.pdb
+F:\NEA\Implementation\testForm\obj\Debug\testForm.Properties.Resources.resources
+F:\NEA\Implementation\testForm\obj\Debug\testForm.csproj.GenerateResource.cache
+F:\NEA\Implementation\testForm\obj\Debug\testForm.exe
+F:\NEA\Implementation\testForm\obj\Debug\testForm.pdb
+F:\NEA\Implementation\testForm\obj\Debug\testForm.Main.resources
+F:\NEA\Implementation\testForm\obj\Debug\testForm.ModulusArgument.resources
+F:\NEA - Copy\Implementation\testForm\bin\Debug\testForm.exe.config
+F:\NEA - Copy\Implementation\testForm\obj\Debug\testForm.exe
+F:\NEA - Copy\Implementation\testForm\obj\Debug\testForm.pdb
+F:\NEA - Copy\Implementation\testForm\bin\Debug\testForm.exe
+F:\NEA - Copy\Implementation\testForm\bin\Debug\testForm.pdb
+F:\NEA - Copy\Implementation\testForm\obj\Debug\testForm.csprojResolveAssemblyReference.cache
+F:\NEA - Copy\Implementation\testForm\obj\Debug\testForm.Add.resources
+F:\NEA - Copy\Implementation\testForm\obj\Debug\testForm.Divide.resources
+F:\NEA - Copy\Implementation\testForm\obj\Debug\testForm.Main.resources
+F:\NEA - Copy\Implementation\testForm\obj\Debug\testForm.ModulusArgument.resources
+F:\NEA - Copy\Implementation\testForm\obj\Debug\testForm.Multiply.resources
+F:\NEA - Copy\Implementation\testForm\obj\Debug\testForm.outputString.resources
+F:\NEA - Copy\Implementation\testForm\obj\Debug\testForm.Properties.Resources.resources
+F:\NEA - Copy\Implementation\testForm\obj\Debug\testForm.Subtract.resources
+F:\NEA - Copy\Implementation\testForm\obj\Debug\testForm.csproj.GenerateResource.Cache
+F:\NEA\Implementation\testForm\obj\Debug\testForm.Midpoint.resources
+F:\NEA\Implementation\testForm\obj\Debug\testForm.Graph.resources
+F:\NEA\Implementation\testForm\obj\Debug\testForm.Operations.resources
+F:\NEA\Implementation\testForm\obj\Debug\testForm.DisplayComplex.resources
+F:\NEA\Implementation\testForm\obj\Debug\testForm.ParameterGraph.resources
+F:\NEA\Implementation\testForm\obj\Debug\testForm.csprojAssemblyReference.cache
+F:\NEA\Implementation\testForm\obj\Debug\testForm.csproj.CoreCompileInputs.cache
